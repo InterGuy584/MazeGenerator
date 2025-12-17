@@ -1,7 +1,7 @@
 # Maze Generator
 This is a simple maze generator that allows you to generate any maze you'd like using c++.
 
-Create a maze by running *dfs.cpp* and pass the name of the desired mask as the first argument. For example: *g++ dfs.cpp bird*
+Create a maze by running the executable and passing the name of the desired mask as the first argument. For example: *g++ a.exe bird*
 
 A few templates are provided in the repository, and a user can create their own templates that use the following rules:
 - The template is plain text in a .txt file
